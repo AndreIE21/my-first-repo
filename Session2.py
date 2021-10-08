@@ -15,6 +15,9 @@ def func3 (a):
 def func4(a, b):
     return a/b
 
+def andres(a)
+    return a **2
+
 <<<<<<< HEAD
 
 def func5(a):
