@@ -15,8 +15,13 @@ def func3 (a):
 def func4(a, b):
     return a/b
 
+<<<<<<< HEAD
 
 def func5(a):
     return print("Hello" + a)
 
 
+=======
+def func6(a, b):
+    return print("hi" + a)
+>>>>>>> ce4125bdcd7321c1ae4bf05b0192ae7096affcef
