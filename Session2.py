@@ -15,3 +15,8 @@ def func3 (a):
 def func4(a, b):
     return a/b
 
+
+def func5(a):
+    return print("Hello" + a)
+
+
